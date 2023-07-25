@@ -17,5 +17,5 @@ Waffel tool is currently in an ideation mode. No working code is written as of n
 # Join us
 
 We'd love to have folks join us and contribute to the project. Waffel is committed to a welcoming and inclusive environment where everyone can contribute.
-Soon the discussion forum will be started on Discord. The code of conduct and contributing guidelines for information about the Waffel community will be updated soon.
+The discussion channel is on discord - #waffle-neo4j-etl. The code of conduct and contributing guidelines for information about the Waffel community will be updated soon.
 
